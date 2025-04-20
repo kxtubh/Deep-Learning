@@ -104,13 +104,6 @@ Through these projects, I've demonstrated understanding of:
 - Model evaluation and visualization
 - Application of machine learning to real-world problems
 
-## Future Work
-
-- Implement more complex deep learning architectures
-- Explore natural language processing projects
-- Add reinforcement learning examples
-- Deploy models to web applications
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
