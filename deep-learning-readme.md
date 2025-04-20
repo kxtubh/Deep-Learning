@@ -121,25 +121,6 @@ python <filename>.py
 
 Replace `<filename>` with the name of the project file you want to run.
 
-## Project Structure
-
-```
-Deep-Learning/
-├── Plant Village Dataset/
-│   └── Trained_Model/
-│       └── model.keras
-├── Insurance Dataset/
-├── Hardcoded/
-├── HR Dataset/
-├── potato_disease_classification.py
-├── gradient_descent.py
-├── regularization.py
-├── cost_loss_function_insurance.py
-├── loss_cost_function.py
-├── hr.py
-└── README.md
-```
-
 ## Learning Outcomes
 
 Through these projects, I've demonstrated understanding of:
