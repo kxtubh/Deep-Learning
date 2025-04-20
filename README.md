@@ -15,11 +15,6 @@ This project implements a Convolutional Neural Network (CNN) to classify potato 
 - Model evaluation and performance visualization
 - Image preprocessing and normalization
 
-**Technologies Used:**
-- TensorFlow
-- Matplotlib
-- NumPy
-
 ### 2. Gradient Descent Implementation
 
 This project demonstrates the gradient descent optimization algorithm using a binary classification problem based on insurance data. It shows how the algorithm works to minimize the loss function.
@@ -29,13 +24,7 @@ This project demonstrates the gradient descent optimization algorithm using a bi
 - Binary classification using sigmoid activation
 - Loss evaluation
 - Data preprocessing and normalization
-
-**Technologies Used:**
-- TensorFlow/Keras
-- Pandas
-- Matplotlib
-- Scikit-learn
-
+- 
 ### 3. Regularization Techniques
 
 This project explores different regularization techniques to prevent overfitting in machine learning models, specifically focusing on logistic regression applied to insurance data.
@@ -45,12 +34,6 @@ This project explores different regularization techniques to prevent overfitting
 - Comparison of regularization effects on model coefficients
 - Custom model creation with TensorFlow/Keras
 - Data visualization
-
-**Technologies Used:**
-- Scikit-learn
-- TensorFlow/Keras
-- Pandas
-- Matplotlib
 
 ### 4. Cost and Loss Functions
 
@@ -68,11 +51,6 @@ Two implementations exploring various cost and loss functions used in machine le
 - Mean Squared Error (MSE)
 - Log loss function with numerical stability considerations
 
-**Technologies Used:**
-- NumPy
-- Pandas
-- Matplotlib
-
 ### 5. HR Analytics
 
 This project analyzes HR data to predict employee attrition using logistic regression. It includes data visualization to understand factors influencing employee retention.
@@ -82,12 +60,6 @@ This project analyzes HR data to predict employee attrition using logistic regre
 - Data visualization with correlation matrices and bar charts
 - One-hot encoding for categorical variables
 - Model evaluation using confusion matrix and classification report
-
-**Technologies Used:**
-- Scikit-learn
-- Pandas
-- Seaborn
-- Matplotlib
 
 ## Getting Started
 
